@@ -1,0 +1,8 @@
+div p{
+    color:blue;
+    font-weight: bold;
+    background-color:aqua;
+}
+article > ol{
+    background-color:chartreuse;
+}
